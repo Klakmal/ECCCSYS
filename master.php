@@ -146,7 +146,6 @@
   <!-- Main Footer -->
   <footer class="main-footer">
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2018 <a href="https://codinginfinite.com">Coding Infinite</a>.</strong> All rights reserved.
   </footer>
   <!-- Add the sidebar's background. This div must be placed
   immediately after the control sidebar -->
